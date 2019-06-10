@@ -1,0 +1,26 @@
+{
+  "bucket": {
+    "_id": "5cfd48adb8437c12311da4d9",
+    "slug": "jamstack-app",
+    "title": "JAMstack_app",
+    "object_types": [
+      {
+        "title": "blogs",
+        "slug": "blogs",
+        "singular": "blog",
+        "metafields": [],
+        "options": {
+          "slug_field": 1,
+          "content_editor": 1
+        },
+        "preview_link": "",
+        "priority_locale": null,
+        "order": 0
+      }
+    ],
+    "objects": [
+    ],
+    "media": [
+    ]
+  }
+}
