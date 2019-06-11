@@ -4,10 +4,14 @@
   "description": "JAMStack app with Vue JS, Nuxt JS and Cosmic JS",
   "author": "ankit",
   "private": true,
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "node server.js",
     "generate": "nuxt generate"
   },
   "dependencies": {
