@@ -34,4 +34,4 @@ You will also see any lint errors in the console.
 Builds the app for production to the `dist` folder.<br>
 It correctly bundles app in production mode and optimizes the build for the best performance.
 
-*Check Demo Here:* `https://jamstack-cosmicjs.herokuapp.com/`
+*Check Demo Here:* [https://jamstack-cosmicjs.herokuapp.com/](https://jamstack-cosmicjs.herokuapp.com/)
