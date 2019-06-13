@@ -30,8 +30,7 @@
       app
     >
       <v-toolbar-side-icon @click="drawer = !drawer" />
-     
-      <v-toolbar-title v-text="title" />
+      <v-toolbar-title to="/"><v-btn to="/">JAMstack Website using Vue.js, Nuxt.js and Cosmic JS</v-btn></v-toolbar-title>
       <v-spacer />
       <v-btn
         icon
