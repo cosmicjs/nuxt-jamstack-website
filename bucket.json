@@ -16,11 +16,133 @@
         "preview_link": "",
         "priority_locale": null,
         "order": 0
+      },
+      {
+        "title": "homes",
+        "slug": "homes",
+        "singular": "home",
+        "metafields": [],
+        "options": {
+          "slug_field": 1,
+          "content_editor": 1
+        },
+        "preview_link": "",
+        "priority_locale": null,
+        "order": 1
       }
     ],
     "objects": [
+      {
+        "_id": "5cfd490eb480b90a99cfb69f",
+        "order": 0,
+        "slug": "awesome-fitness-quotes-to-keep-you-motivated",
+        "title": "Awesome Fitness Quotes to Keep You Motivated",
+        "content": "<p>Are you starting to feel like sticking to your workout routine isn&rsquo;t worth it anymore? Maybe you&rsquo;re disappointed because it seems like you aren&rsquo;t getting the results you want as fast as you&rsquo;d like. Or perhaps you&rsquo;re tired of fighting with your body day in and day out. I&rsquo;m here to tell you that everyone feels this way from time to time. It&rsquo;s natural to have doubts and fears &ndash; and to even think about quitting. However, the way you deal with this feeling makes all the difference, and it&rsquo;s what separates those who achieve their goals from those who never quite make it. Are you going to recognize the feeling for what it is &ndash; a temporary blip &ndash; and push through it, or are you going to give in and give up? Before you give up, consider the fact that you may just need a little motivation and inspiration. Getting a little reinforcement for all the reasons you work out and live a healthy lifestyle in the first place may be all you need to keep pushing. Reading quotes can be an easy way to get an inoculation against the fitness blahs &ndash; and usually it takes just one sentence to give you the boost you need. Check out some of my favorites below. These help help keep me inspired to push harder and reach my goals. Scroll through these fitness motivation quotes whenever you&rsquo;re on the verge of skipping a workout, cheating on your diet, or giving up altogether. I guarantee they&rsquo;ll change your mind!<br><br>This feeling is especially common if you haven&rsquo;t worked out in forever (or maybe it&rsquo;s even your first time) and you&rsquo;re feeling like everyone around you is in much better shape. They&rsquo;re running through HIIT workouts with ease and you&rsquo;re in the back struggling to get in a breath. You feel like a fraud. And you can&rsquo;t help but think: Who are you to try to train like any of these athletes? Okay, let&rsquo;s hit the brakes on this train of thought. First of all, every one of those people started somewhere. They didn&rsquo;t leave the womb shredded with the endurance of a horse, and they surely don&rsquo;t come to the gym just to stand around and show off how buff they are.<br><br>So what is the difference between you and them? They stopped thinking about others and got to work on improving themselves, regardless of their level of fitness. Their will to be better overrode their fear of being physically inadequate. So struggle to catch your breath with pride. Soon enough, you&rsquo;ll be better than the next beginner that steps through the doors. 2. &ldquo;Training gives us an outlet for suppressed energies created by stress and thus tones the spirit just as exercise conditions the body.&rdquo; &ndash; Arnold Schwarzenegger Sometimes you can feel so stressed because of all of the things on your to-do list that you can barely roll out of bed to do them. The overwhelm is just too much, right?</p>",
+        "metafields": [
+          {
+            "value": "4daceb40-8ae6-11e9-9c80-5d446f0ee009-body-builder-quotes-like-poster-ace-217-medium-original-imaeeqvujykvvb4h.jpeg",
+            "key": "image",
+            "title": "image",
+            "type": "file",
+            "children": null
+          }
+        ],
+        "bucket": "5cfd48adb8437c12311da4d9",
+        "type_slug": "blogs",
+        "created_at": "2019-06-09T17:59:42.701Z",
+        "created_by": "5b9a2cea94c6853a487d0d21",
+        "modified_at": "2019-06-09T18:46:57.165Z",
+        "created": "2019-06-09T17:59:42.701Z",
+        "user_id": "5b9a2cea94c6853a487d0d21",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2019-06-09T18:46:57.165Z",
+        "modified_by": "5b9a2cea94c6853a487d0d21",
+        "publish_at": null
+      },
+      {
+        "_id": "5d03cd8d9781d4488ddce989",
+        "order": 0,
+        "slug": "heights-fitness-strength-training-studio",
+        "title": "Heights Fitness & Strength Training Studio",
+        "content": "<p>Join a fitness community that is passionate, determined, and supportive. Whether you&rsquo;re here for a day or committed to years, we&rsquo;ve got exactly what you need. Join a fitness community that is passionate, determined, and supportive. Whether you&rsquo;re here for a day or committed to years, we&rsquo;ve got exactly what you need. Are you starting to feel like sticking to your workout routine isn&rsquo;t worth it anymore? Maybe you&rsquo;re disappointed because it seems like you aren&rsquo;t getting the results you want as fast as you&rsquo;d like. Or perhaps you&rsquo;re tired of fighting with your body day in and day out. I&rsquo;m here to tell you that everyone feels this way from time to time. It&rsquo;s natural to have doubts and fears &ndash; and to even think about quitting.<br><br>However, the way you deal with this feeling makes all the difference, and it&rsquo;s what separates those who achieve their goals from those who never quite make it. Are you going to recognize the feeling for what it is &ndash; a temporary blip &ndash; and push through it, or are you going to give in and give up? Before you give up, consider the fact that you may just need a little motivation and inspiration. Getting a little reinforcement for all the reasons you work out and live a healthy lifestyle in the first place may be all you need to keep pushing.</p>",
+        "metafields": [
+          {
+            "value": "https://cosmic-s3.imgix.net/0f971fc0-8ec3-11e9-a46d-ef3d4aa5f929-gym.jpg",
+            "key": "image",
+            "title": "image",
+            "type": "text",
+            "children": null
+          },
+          {
+            "value": "Drop email at: abc@test.com",
+            "key": "contact_us",
+            "title": "Contact us",
+            "type": "text",
+            "children": null
+          },
+          {
+            "value": "We are the best fitness trainer in this city. <br>Come and enjoy experience of our trainers.",
+            "key": "about_us",
+            "title": "about us",
+            "type": "text",
+            "children": null
+          }
+        ],
+        "bucket": "5cfd48adb8437c12311da4d9",
+        "type_slug": "homes",
+        "created_at": "2019-06-14T16:38:37.399Z",
+        "created_by": "5b9a2cea94c6853a487d0d21",
+        "modified_at": "2019-06-14T16:42:56.695Z",
+        "created": "2019-06-14T16:38:37.399Z",
+        "user_id": "5b9a2cea94c6853a487d0d21",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2019-06-14T16:42:56.695Z",
+        "modified_by": "5b9a2cea94c6853a487d0d21",
+        "publish_at": null
+      }
     ],
     "media": [
+      {
+        "_id": "5d03cde481a880502ce6158e",
+        "name": "0f971fc0-8ec3-11e9-a46d-ef3d4aa5f929-gym.jpg",
+        "original_name": "gym.jpg",
+        "size": 389173,
+        "type": "image/jpeg",
+        "bucket": "5cfd48adb8437c12311da4d9",
+        "created": "2019-06-14T16:40:04.879Z",
+        "location": "https://cdn.cosmicjs.com",
+        "folder": null
+      },
+      {
+        "_id": "5cfd530880e5170c15043ddb",
+        "name": "4daceb40-8ae6-11e9-9c80-5d446f0ee009-body-builder-quotes-like-poster-ace-217-medium-original-imaeeqvujykvvb4h.jpeg",
+        "original_name": "body-builder-quotes-like-poster-ace-217-medium-original-imaeeqvujykvvb4h.jpeg",
+        "size": 30454,
+        "type": "image/jpeg",
+        "bucket": "5cfd48adb8437c12311da4d9",
+        "created": "2019-06-09T18:42:16.306Z",
+        "location": "https://cdn.cosmicjs.com",
+        "folder": null
+      },
+      {
+        "_id": "5cfea0f294ac4b282b9b505a",
+        "name": "54f29d60-8bad-11e9-bc0c-a9fbfcf72977-Screenshot-from-2019-06-10-23-54-58.png",
+        "original_name": "Screenshot from 2019-06-10 23-54-58.png",
+        "size": 516465,
+        "type": "image/png",
+        "bucket": "5cfd48adb8437c12311da4d9",
+        "created": "2019-06-10T18:26:58.380Z",
+        "location": "https://cdn.cosmicjs.com",
+        "folder": null
+      }
     ]
   }
 }
