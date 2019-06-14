@@ -25,7 +25,6 @@ export default {
             }
         })
       .then(res => {
-        console.log(res.data.objects[0].metadata.image.url);
         return {title : res.data.objects[0].title, body: res.data.objects[0].content, image:res.data.objects[0].metadata.image.url}
       });
   }
