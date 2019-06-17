@@ -14,8 +14,8 @@ cd jamstack_app
 npm install
 npm run build
 npm start
-Now visit: http://localhost:3000
 ```
+Now visit: http://localhost:3000
 
 ## Available Scripts
 
