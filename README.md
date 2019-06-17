@@ -1,6 +1,6 @@
 # JAMstack Website using Vue.js, Nuxt.js and Cosmic JS 
 
-![Screenshot](https://cosmic-s3.imgix.net/54f29d60-8bad-11e9-bc0c-a9fbfcf72977-Screenshot-from-2019-06-10-23-54-58.png)
+![Screenshot](https://cosmic-s3.imgix.net/082b5050-9123-11e9-bc00-5fc34b01c111-smartmockupsjx0mxous.jpg)
 
 This project was bootstrapped with [Create Nuxt App](https://nuxtjs.org/guide/installation#starting-from-scratch).
 
