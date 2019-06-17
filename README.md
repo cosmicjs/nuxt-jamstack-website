@@ -35,3 +35,11 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `dist` folder.<br>
 It correctly bundles app in production mode and optimizes the build for the best performance.
+
+
+### Deploy to Netlify
+```
+npm i -g netlify-cli
+npm i -g nuxt
+netlify deploy # point to the dist folder
+```
