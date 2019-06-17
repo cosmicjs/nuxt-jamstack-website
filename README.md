@@ -2,6 +2,8 @@
 
 ![Screenshot](https://cosmic-s3.imgix.net/9c9b7f30-9123-11e9-af65-95e90f322628-nuxt-jamstack.png)
 
+[View Demo](https://cosmicjs.com/apps/jamstack-fitness-website)
+
 This project was bootstrapped with [Create Nuxt App](https://nuxtjs.org/guide/installation#starting-from-scratch).
 
 # Get Started
@@ -33,5 +35,3 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `dist` folder.<br>
 It correctly bundles app in production mode and optimizes the build for the best performance.
-
-*Check Demo Here:* [https://jamstack-cosmicjs.herokuapp.com/](https://jamstack-cosmicjs.herokuapp.com/)
