@@ -9,8 +9,8 @@ This project was bootstrapped with [Create Nuxt App](https://nuxtjs.org/guide/in
 ## Running server:
 
 ```
-git clone https://github.com/a9kitkumar/jamstack_app.git
-cd jamstack_app
+git clone https://github.com/cosmicjs/nuxt-jamstack-website
+cd nuxt-jamstack-website
 npm install
 npm run build
 npm start
